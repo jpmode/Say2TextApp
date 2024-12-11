@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Say2Text Watch App.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Say2Text.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>WhisperAX Watch App.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>161135DD2B3F66DA003C20F6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>161135EF2B3F66DC003C20F6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>161135F92B3F66DC003C20F6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>167B345D2B05431E0076F261</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>167B34702B05431F0076F261</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>167B347A2B05431F0076F261</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
